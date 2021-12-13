@@ -1,6 +1,6 @@
 # Contador
-Contador 
-Meu primeiro contato com javascript  através da digital innovation one.
+
+Meu primeiro contator  criado em javascript através do curso Digital Innovation one.
 Nesse projeto eu aprendi  a minha primeira integração de um código javascript para uma página HTML.
 
 
